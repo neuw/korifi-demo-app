@@ -1,0 +1,4 @@
+applications:
+  - name: korifi-demo
+    env:
+      BP_JVM_VERSION: "23"
