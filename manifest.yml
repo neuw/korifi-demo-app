@@ -1,4 +1,4 @@
 applications:
-  - name: korifi-demo
-    env:
-      BP_JVM_VERSION: "23"
+- name: korifi-demo
+  env:
+    BP_JVM_VERSION: "23"
